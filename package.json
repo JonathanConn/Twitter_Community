@@ -1,0 +1,31 @@
+{
+  "name": "news_analyzer",
+  "version": "1.0.0",
+  "description": "Semantic analysis of Google News with custom queries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonathanConn/News_Analyzer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonathanConn/News_Analyzer/issues"
+  },
+  "homepage": "https://github.com/JonathanConn/News_Analyzer#readme",
+  "dependencies": {
+    "apexcharts": "^3.23.1",
+    "body-parser": "^1.19.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "express-validator": "^6.9.2",
+    "multer": "^1.4.2",
+    "natural": "^2.4.4",
+    "nodemon": "^2.0.7",
+    "pug": "^3.0.0",
+    "twitter": "^1.7.1"
+  }
+}
